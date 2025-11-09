@@ -83,11 +83,7 @@ You can test API endpoints using tools like:
 - [Postman](https://www.postman.com/)  
 - [Insomnia](https://insomnia.rest/)
 
----
 
-## 🌟 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
